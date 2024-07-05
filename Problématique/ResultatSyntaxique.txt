@@ -1,0 +1,2 @@
+Lecture de l'AST trouve : (18 / ((5 + 4) * 6))
+Evaluation de l'AST trouve : 0
